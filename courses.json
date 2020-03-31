@@ -1,0 +1,502 @@
+[
+	{
+		"name": "Calculus I",
+		"course_number": "2311",
+		"hour": "T/R 1:00PM-3:00PM"
+	},
+	{
+		"name": "Calculus I",
+		"course_number": "2311",
+		"hour": "M/W/F 8:00AM-9:00AM"
+	},
+	{
+		"name": "Calculus I",
+		"course_number": "2311",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Calculus I",
+		"course_number": "2311",
+		"hour": "T/R 1:00PM-3:00PM"
+	},
+	{
+		"name": "Calculus I",
+		"course_number": "2311",
+		"hour": "M/W/F 1:00 PM-2:00PM"
+	},
+	{
+		"name": "Natural Science I",
+		"course_number": "0",
+		"hour": "M/W/F 2:00PM-4:00PM"
+	},
+	{
+		"name": "Natural Science I",
+		"course_number": "0",
+		"hour": "M/W/F 1:00 PM-2:00PM"
+	},
+	{
+		"name": "Natural Science I",
+		"course_number": "0",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Natural Science I",
+		"course_number": "0",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Natural Science I",
+		"course_number": "0",
+		"hour": "M/W/F 1:00 PM-2:00PM"
+	},
+	{
+		"name": "Natural Science II",
+		"course_number": "1",
+		"hour": "M/W/F 10:00AM-11:00AM"
+	},
+	{
+		"name": "Natural Science II",
+		"course_number": "1",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Natural Science II",
+		"course_number": "1",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Natural Science II",
+		"course_number": "1",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Natural Science II",
+		"course_number": "1",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Programming I",
+		"course_number": "2210",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Programming I",
+		"course_number": "2210",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Programming I",
+		"course_number": "2210",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Programming I",
+		"course_number": "2210",
+		"hour": "T/R 5:00PM-7:00PM"
+	},
+	{
+		"name": "Programming I",
+		"course_number": "2210",
+		"hour": "T/R 10:00AM - 12:00PM"
+	},
+	{
+		"name": "Introduction to Computing",
+		"course_number": "1920",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Introduction to Computing",
+		"course_number": "1920",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Introduction to Computing",
+		"course_number": "1920",
+		"hour": "M/W/F 2:00PM-4:00PM"
+	},
+	{
+		"name": "Introduction to Computing",
+		"course_number": "1920",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Introduction to Computing",
+		"course_number": "1920",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Professional and Technical Writing",
+		"course_number": "3249",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Professional and Technical Writing",
+		"course_number": "3249",
+		"hour": "M/W/F 2:00PM-4:00PM"
+	},
+	{
+		"name": "Professional and Technical Writing",
+		"course_number": "3249",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Professional and Technical Writing",
+		"course_number": "3249",
+		"hour": "T/R 1:00PM-3:00PM"
+	},
+	{
+		"name": "Professional and Technical Writing",
+		"course_number": "3249",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Calculus II",
+		"course_number": "2312",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Calculus II",
+		"course_number": "2312",
+		"hour": "T/R 10:00AM - 12:00PM"
+	},
+	{
+		"name": "Calculus II",
+		"course_number": "2312",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Calculus II",
+		"course_number": "2312",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Calculus II",
+		"course_number": "2312",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Physics I",
+		"course_number": "2048",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Physics I",
+		"course_number": "2048",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Physics I",
+		"course_number": "2048",
+		"hour": "T/R 5:00PM-7:00PM"
+	},
+	{
+		"name": "Physics I",
+		"course_number": "2048",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Physics I",
+		"course_number": "2048",
+		"hour": "T/R 5:00PM-7:00PM"
+	},
+	{
+		"name": "Discrete Math",
+		"course_number": "2104",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Discrete Math",
+		"course_number": "2104",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Discrete Math",
+		"course_number": "2104",
+		"hour": "T/R 5:00PM-7:00PM"
+	},
+	{
+		"name": "Discrete Math",
+		"course_number": "2104",
+		"hour": "T/R 10:00AM - 12:00PM"
+	},
+	{
+		"name": "Discrete Math",
+		"course_number": "2104",
+		"hour": "M/W/F 8:00AM-9:00AM"
+	},
+	{
+		"name": "Discrete Structures",
+		"course_number": "3100",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Discrete Structures",
+		"course_number": "3100",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Discrete Structures",
+		"course_number": "3100",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Discrete Structures",
+		"course_number": "3100",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Discrete Structures",
+		"course_number": "3100",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Programming II",
+		"course_number": "3337",
+		"hour": "M/W/F 2:00PM-4:00PM"
+	},
+	{
+		"name": "Programming II",
+		"course_number": "3337",
+		"hour": "M/W/F 1:00 PM-2:00PM"
+	},
+	{
+		"name": "Programming II",
+		"course_number": "3337",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Programming II",
+		"course_number": "3337",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Programming II",
+		"course_number": "3337",
+		"hour": "M/W/F 2:00PM-4:00PM"
+	},
+	{
+		"name": "Technology in the Global Arena",
+		"course_number": "3095",
+		"hour": "M/W/F 10:00AM-11:00AM"
+	},
+	{
+		"name": "Technology in the Global Arena",
+		"course_number": "3095",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Technology in the Global Arena",
+		"course_number": "3095",
+		"hour": "T/R 5:00PM-7:00PM"
+	},
+	{
+		"name": "Technology in the Global Arena",
+		"course_number": "3095",
+		"hour": "M/W/F 10:00AM-11:00AM"
+	},
+	{
+		"name": "Technology in the Global Arena",
+		"course_number": "3095",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Physics II",
+		"course_number": "2049",
+		"hour": "M/W/F 10:00AM-11:00AM"
+	},
+	{
+		"name": "Physics II",
+		"course_number": "2049",
+		"hour": "M/W/F 2:00PM-4:00PM"
+	},
+	{
+		"name": "Physics II",
+		"course_number": "2049",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Physics II",
+		"course_number": "2049",
+		"hour": "M/W/F 10:00AM-11:00AM"
+	},
+	{
+		"name": "Physics II",
+		"course_number": "2049",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Computer Architecture",
+		"course_number": "3102",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Computer Architecture",
+		"course_number": "3102",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Computer Architecture",
+		"course_number": "3102",
+		"hour": "M/W/F 10:00AM-11:00AM"
+	},
+	{
+		"name": "Computer Architecture",
+		"course_number": "3102",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Computer Architecture",
+		"course_number": "3102",
+		"hour": "T/R 1:00PM-3:00PM"
+	},
+	{
+		"name": "Data Structures",
+		"course_number": "3530",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Data Structures",
+		"course_number": "3530",
+		"hour": "M/W/F 8:00AM-9:00AM"
+	},
+	{
+		"name": "Data Structures",
+		"course_number": "3530",
+		"hour": "M/W/F 1:00 PM-2:00PM"
+	},
+	{
+		"name": "Data Structures",
+		"course_number": "3530",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Data Structures",
+		"course_number": "3530",
+		"hour": "M/W/F 10:00AM-11:00AM"
+	},
+	{
+		"name": "Software Engineering I",
+		"course_number": "4010",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Software Engineering I",
+		"course_number": "4010",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Software Engineering I",
+		"course_number": "4010",
+		"hour": "T/R 5:00PM-7:00PM"
+	},
+	{
+		"name": "Software Engineering I",
+		"course_number": "4010",
+		"hour": "M/W/F 2:00PM-4:00PM"
+	},
+	{
+		"name": "Software Engineering I",
+		"course_number": "4010",
+		"hour": "T/R 5:00PM-7:00PM"
+	},
+	{
+		"name": "Statistics",
+		"course_number": "3033",
+		"hour": "M/W/F 1:00 PM-2:00PM"
+	},
+	{
+		"name": "Statistics",
+		"course_number": "3033",
+		"hour": "M/W/F 2:00PM-4:00PM"
+	},
+	{
+		"name": "Statistics",
+		"course_number": "3033",
+		"hour": "M/W/F 1:00 PM-2:00PM"
+	},
+	{
+		"name": "Statistics",
+		"course_number": "3033",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Statistics",
+		"course_number": "3033",
+		"hour": "M/W/F 8:00AM-9:00AM"
+	},
+	{
+		"name": "Operating Systems",
+		"course_number": "4610",
+		"hour": "T/R 1:00PM-3:00PM"
+	},
+	{
+		"name": "Operating Systems",
+		"course_number": "4610",
+		"hour": "T/R 1:00PM-3:00PM"
+	},
+	{
+		"name": "Operating Systems",
+		"course_number": "4610",
+		"hour": "T/R 1:00PM-3:00PM"
+	},
+	{
+		"name": "Operating Systems",
+		"course_number": "4610",
+		"hour": "M/W/F 8:00AM-9:00AM"
+	},
+	{
+		"name": "Operating Systems",
+		"course_number": "4610",
+		"hour": "T/R 1:00PM-3:00PM"
+	},
+	{
+		"name": "Systems Programming",
+		"course_number": "4338",
+		"hour": "M/W/F 1:00 PM-2:00PM"
+	},
+	{
+		"name": "Systems Programming",
+		"course_number": "4338",
+		"hour": "T/R 5:00PM-7:00PM"
+	},
+	{
+		"name": "Systems Programming",
+		"course_number": "4338",
+		"hour": "M/W/F 1:00 PM-2:00PM"
+	},
+	{
+		"name": "Systems Programming",
+		"course_number": "4338",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Systems Programming",
+		"course_number": "4338",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Senior Project",
+		"course_number": "4911",
+		"hour": "M/W/F 8:00AM-9:00AM"
+	},
+	{
+		"name": "Senior Project",
+		"course_number": "4911",
+		"hour": "M/W/F 2:00PM-4:00PM"
+	},
+	{
+		"name": "Senior Project",
+		"course_number": "4911",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Senior Project",
+		"course_number": "4911",
+		"hour": "ONLINE"
+	},
+	{
+		"name": "Senior Project",
+		"course_number": "4911",
+		"hour": "M/W/F 10:00AM-11:00AM"
+	}
+]
